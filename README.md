@@ -19,7 +19,7 @@ This project is a tic tac toe game. The aim was to allow 2 game modes of player 
 
 ## Getting Started
 
-You can play my game [Here](AzurePho.github.io)
+You can play my game [Here](https://AzurePho.github.io)
 
 Once the page has loaded, you are given two buttons, 1 for 2 players and one to play against AI. Upon clicking on one, the game will start.
 
